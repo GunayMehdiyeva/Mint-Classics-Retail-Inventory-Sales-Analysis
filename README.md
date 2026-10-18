@@ -3,4 +3,4 @@ Mint Classics is a fictional company selling classic model cars. The business qu
 
 Tools: MySQL Workbench, SQL, Power BI, DAX
 
-Business analysis · Dashboard development · Inventory optimization
+Business analysis | Dashboard development | Inventory optimization
